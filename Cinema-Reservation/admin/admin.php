@@ -17,6 +17,7 @@
         box-sizing: border-box;
       }
       
+      
       .loginPopup {
         position: relative;
         text-align: center;
